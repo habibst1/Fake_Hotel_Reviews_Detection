@@ -1,3 +1,5 @@
+The work is in the notebook PFA_1.ipynb
+
 # Example 1
 ![image](https://github.com/user-attachments/assets/0dd6ab08-d50a-4ab2-86e3-e2e58f1e97d9)
 
