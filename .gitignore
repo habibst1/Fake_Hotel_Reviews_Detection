@@ -1,0 +1,4 @@
+# Exclude folders
+kaggle/
+results/
+tmp_trainer/
