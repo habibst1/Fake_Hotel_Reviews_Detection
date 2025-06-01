@@ -7,4 +7,5 @@ tmp_trainer/
 # Exclude image files
 Training.jpg
 Confusion_Matrix.png
+Confusion_Matrix.ipynb
 classification_report.PNG
