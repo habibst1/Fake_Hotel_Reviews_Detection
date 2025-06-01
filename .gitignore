@@ -3,3 +3,8 @@ kaggle/
 results/
 tmp_trainer/
 .ipynb_checkpoints/
+
+# Exclude image files
+Training.jpg
+Confusion_Matrix.png
+classification_report.PNG
